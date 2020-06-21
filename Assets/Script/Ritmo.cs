@@ -24,8 +24,10 @@ public class Ritmo : MonoBehaviour
     void onOnbeatDetected ()
     {
         i++;
-        Debug.Log ("Beat!!!"+i);
-        anim.SetTrigger("Beating");
+        if (i % 2 == 0)
+        {
+            anim.SetTrigger("Beating");
+        }
     }
 
     //This event will be called every frame while music is playing

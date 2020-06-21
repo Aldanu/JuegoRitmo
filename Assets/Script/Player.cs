@@ -1,16 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    private bool isPaused = false;
+    public bool isPaused = false;
     public GameObject canvas;
-    public float speed = 1.0f;
     public Animator anim;
+    public Text lifeText;
+    public float speed = 1.0f;
+    public float life;
+    public float attack;
+    public int[] upgrades;
+    
     // Use this for initialization
     void Start()
     {
+        lifeText.text = "Vida: " + life;
         anim = gameObject.GetComponent<Animator>();
     }
     // Update is called once per frame

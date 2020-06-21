@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61bbc6e6-679e-4372-8c00-aece2219ff2f" name="Default Changelist" comment="" />
+    <list default="true" id="61bbc6e6-679e-4372-8c00-aece2219ff2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Ritmo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Ritmo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Kaladin/WalkDown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Kaladin/WalkDown.png.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/Ritmo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/MainMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/AudioProcessor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Player.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +34,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/AudioProcessor.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Ritmo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +81,7 @@
       <workItem from="1590684263140" duration="1008000" />
       <workItem from="1590856626203" duration="1832000" />
       <workItem from="1592682903376" duration="4893000" />
+      <workItem from="1592757189007" duration="4263000" />
     </task>
     <servers />
   </component>
