@@ -19,10 +19,12 @@
         </e>
         <e p="Script" t="Include">
           <e p="AudioProcessor.cs" t="Include" />
+          <e p="DropsManager.cs" t="Include" />
           <e p="MainMenuManager.cs" t="Include" />
           <e p="PauseMenuManager.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Ritmo.cs" t="Include" />
+          <e p="SceneChange.cs" t="Include" />
           <e p="SceneChanger.cs" t="Include" />
         </e>
       </e>
