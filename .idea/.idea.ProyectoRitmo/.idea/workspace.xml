@@ -5,8 +5,29 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProyectoRitmo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InGame.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InGame.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/AudioProcessor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/AudioProcessor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/DropsManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/DropsManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/MainMenuManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/MainMenuManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Ritmo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Ritmo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SceneChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SceneChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SceneChanger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SceneChanger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,27 +39,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Ritmo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/DropsManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/MainMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/AudioProcessor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameB/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameB/CharacterSelector.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/SceneManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/SceneChanger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/MainMenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/AudioProcessor.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PauseMenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Ritmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DropsManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/SceneChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MainMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CharacterSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnemyGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ExitLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnemyPatroler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnemyShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnemySeeker.cs" />
       </list>
     </option>
   </component>
@@ -86,7 +107,9 @@
       <workItem from="1590856626203" duration="1832000" />
       <workItem from="1592682903376" duration="4893000" />
       <workItem from="1592757189007" duration="15953000" />
-      <workItem from="1593101617856" duration="1562000" />
+      <workItem from="1593101617856" duration="6246000" />
+      <workItem from="1593451128124" duration="13784000" />
+      <workItem from="1593528654916" duration="7236000" />
     </task>
     <servers />
   </component>

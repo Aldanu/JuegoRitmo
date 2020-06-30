@@ -6,6 +6,10 @@ TagManager:
   tags:
   - PickUp
   - Collider
+  - EnemyBullet
+  - Enemy
+  - Attack
+  - Exit
   layers:
   - Default
   - TransparentFX
@@ -15,9 +19,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - escenario
+  - characters
+  - objects
   - 
   - 
   - 
